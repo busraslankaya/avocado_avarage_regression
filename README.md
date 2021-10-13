@@ -14,3 +14,6 @@ the best model in this case.We looked distributed plot that our residuals looked
 normally distributed which means that our model was a correct choice for the data. Finally We have straight line in best model. According to comprasion of model's RMSE ,we can see which model is the best
 choice for our dataset. Random forest regression has minimum RMSE value in the
 table.In this case our best model is Random Forest Regression
+
+
+Dataset link:  https://www.kaggle.com/neuromusic/avocado-prices
